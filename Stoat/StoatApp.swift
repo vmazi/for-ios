@@ -2,7 +2,7 @@ import SwiftUI
 import Sentry
 import Types
 
-let DEFAULT_API_URL: String = "https://api.stoat.chat"
+let DEFAULT_API_URL: String = "https://sig.borgorg.org/api"
 
 @main
 struct StoatApp: App {
